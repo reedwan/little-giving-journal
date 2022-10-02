@@ -5,6 +5,7 @@
 		<div class="columns is-centered">
 			<div class="column is-10">
 
+				<!--
 				<div class="mb-5">
 				<a class="button is-link has-background-white has-text-dark ml-2 pl-0" href="https://journal.littlegiving.org">
 					<span class="icon">
@@ -13,10 +14,11 @@
 					<span class="subtitle ml-3 is-underlined has-text-black">Little Giving Journal</span>
 				</a>
 				</div>
+				-->
 
 				{{ with .Resources.GetMatch "header.jpg" }}
 				{{ $image := .Fill "1600x800" }}
-				<div class="pb-5">
+				<div class="pb-5 mt-2">
 					<img style="border-radius:0.35em" src="{{ $image.RelPermalink }}">
 					<p class="is-size-5 has-text-grey mt-2">Image: {{ $.Params.caption }}</p>
 				</div>
