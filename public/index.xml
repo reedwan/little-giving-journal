@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Little Giving Journal</title>
+    <link>https://journal.littlegiving.org/</link>
+    <description>Recent content on Little Giving Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://journal.littlegiving.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily bread distribution in Kabul, Afghanistan</title>
+      <link>https://journal.littlegiving.org/2022-10-02/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://journal.littlegiving.org/2022-10-02/</guid>
+      <description>Over the last few months Mothers of Afghanistan have been facilitating daily bread distribution in Kabul on behalf of Little Giving users.
+Mothers of Afghanistan is a UK registered charity (1190531) that works in Kabul, Jalalabad, Paktika and other areas of Afghanistan.
+In Kabul, Mothers of Afghanistan have set up a bread voucher scheme for widows and the poor. Families are assessed and given vouchers which they can use to collect freshly baked bread from local bakeries.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<section class="hero">
+	<div class="hero-body">
+		<div class="container">
+			<h1 class="title">
+				Little Giving Journal
+			</h1>
+			<h2 class="subtitle">
+				Updates from the Little Giving team
+			</h2>
+		</div>
+	</div>
+</section>
+
+<section class="section pt-4">
+	<div class="container">
+		<div class="tile is-ancestor" style="flex-wrap: wrap;">
+            {{ range .Pages.ByPublishDate.Reverse }}
+			<li class="tile is-6 is-parent pb-5">
+				<a class="tile is-child card" href="{{ .RelPermalink }}">
+                    {{ with .Resources.GetMatch "header.jpg" }}
+                    {{ $image := .Fill "1600x500" }}
+                    <div class="card-image">
+                        <img src="{{ $image.RelPermalink }}">
+                    </div>
+                    {{ end }}
+                    <div class="card-content pt-4">
+                        <div class="content">
+                            <p class="subtitle mb-3 is-size-4 has-text-weight-semibold">{{ .Title }}</p>
+                            <p class="subtitle">{{ .Date.Format "2/1/2006" }}</p>
+                        </div>
+                    </div>
+				</a>
+			</li>
+            {{ end }}
+		</div>
+	</div>
+</section>
+
+
+{{ end }}
+
+

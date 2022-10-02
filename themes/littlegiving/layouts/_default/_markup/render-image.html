@@ -1,0 +1,7 @@
+{{ with .Page.Resources.GetMatch .Destination}}
+<div class="my-6">
+	{{ $image := .Fill "1600x800" }}
+	<img style="border-radius:0.35em" src="{{ $image.RelPermalink | safeURL }}" alt="{{ $.Text }}" />
+	<p class="is-size-5 has-text-grey mt-2">Image: {{ $.Text }}</p>
+</div>
+{{ end }}

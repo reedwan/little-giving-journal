@@ -1,0 +1,8 @@
+baseURL = 'https://journal.littlegiving.org/'
+languageCode = 'en-gb'
+title = 'Little Giving Journal'
+theme = ['littlegiving']
+disableKinds = ["home", "taxonomy", "term"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  posts = '/:filename'
