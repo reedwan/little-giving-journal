@@ -1,4 +1,5 @@
 baseURL = 'https://journal.littlegiving.org/'
+canonifyurls = true
 languageCode = 'en-gb'
 title = 'Little Giving Journal'
 theme = ['littlegiving']
