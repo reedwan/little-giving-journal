@@ -21,9 +21,11 @@ Some loaves are also distributed to beggars and people working on the streets.
 
 ![Bread distributed on the streets of Kabul](d.jpg)
 
+You can contribute to this project by selecting Mothers of Afghanistan as one of the charities you donate to through Little Giving.
+
 Mothers of Afghanistan also operate a number of other projects in Afghanistan including building wells, distributing clothes, providing food packs, distributing cooked food (including aqiqah), and sponsoring orphans. They can be contacted at [mothersofafghanistan@hotmail.com](mailto:mothersofafghanistan@hotmail.com).
 
-Little Giving help people give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users.
+Little Giving is a free service to help you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users.
 
 ---
 
