@@ -5,5 +5,6 @@ title = 'Little Giving Journal'
 theme = ['littlegiving']
 disableKinds = ["home", "taxonomy", "term"]
 ignoreErrors = ["error-disable-taxonomy"]
+buildFuture = true
 [permalinks]
   posts = '/:filename'
