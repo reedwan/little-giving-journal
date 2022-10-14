@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Providing bread to families in Kabul, Afghanistan"
+title: "A daily bread scheme for widows in Kabul, Afghanistan"
 date: 2022-10-07T00:00:00+00:00
 caption: "The Blue Mosque in Mazar-e-Sharif, Afghanistan"
 ---
