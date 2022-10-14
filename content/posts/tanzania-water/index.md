@@ -11,7 +11,7 @@ Helani is a rural village located in Tanga, eight hours drive from Dar es Salaam
 
 Members from Waterfall's UK office traveled to Tanzania to oversee the work.
 
-Previously women from the village would collect water from river beds and ponds. When water couldn't be found or the quality was very poor, women would have to walk for miles to source useable water. The typical household income in Helani is £300 a year (about 80p a day). 
+Before the well was installed, women would collect water from river beds and ponds. When water couldn't be found or the quality was very poor, women would have to walk for miles to source useable water. The typical household income in Helani is £300 a year (about 80p a day). 
 
 ![Women would fill these buckets with murky water from rivers and ponds and carry them to the village](a.jpg)
 
