@@ -16,7 +16,7 @@
 <section class="section pt-4">
 	<div class="container">
 		<div class="tile is-ancestor" style="flex-wrap: wrap;">
-            {{ range .Pages.ByPublishDate.Reverse }}
+			{{ range .Pages.ByPublishDate.Reverse }}
 			<li class="tile is-6 is-parent pb-5">
 				<a class="tile is-child card" href="{{ .RelPermalink }}">
                     {{ with .Resources.GetMatch "header.jpg" }}
@@ -33,7 +33,7 @@
                     </div>
 				</a>
 			</li>
-            {{ end }}
+			{{ end }}
 		</div>
 	</div>
 </section>
