@@ -2,7 +2,7 @@
 draft: false
 title: "Securing clean water for Helani Village, Tanzania"
 date: 2022-11-04T00:00:00+00:00
-caption: "The Tanzania savannah at sunset"
+caption: "The Tanzania savannah at Asr"
 ---
 
 Waterfall have drilled a borehole and installed a pump and filter system to supply Helani Village in Tanzania with clean water, on behalf of Little Giving users.
