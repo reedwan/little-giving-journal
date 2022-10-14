@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Providing bread to families in Kabul, Afghanistan"
-date: 2022-10-02T00:00:00+00:00
+date: 2022-10-07T00:00:00+00:00
 caption: "The Blue Mosque in Mazar-e-Sharif, Afghanistan"
 ---
 
@@ -19,11 +19,11 @@ In Kabul, Mothers of Afghanistan have set up a bread voucher scheme for poor fam
 
 ![Bread distributed on the streets of Kabul](d.jpg)
 
-You can contribute to this project by selecting Mothers of Afghanistan as one of your charities on Little Giving.
+You can contribute to this project by selecting Mothers of Afghanistan as one of the charities you give to daily on Little Giving.
 
 Mothers of Afghanistan also operate a number of other projects in Afghanistan including building wells, distributing clothes, providing food packs, distributing cooked food (including aqiqah), and sponsoring orphans. They can be contacted at [mothersofafghanistan@hotmail.com](mailto:mothersofafghanistan@hotmail.com).
 
-Little Giving is a free service that helps you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users. See our [FAQs](https://www.littlegiving.org/support) for more information about how we work.
+Little Giving is a free service that helps you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users. See our [FAQs](https://www.littlegiving.org/support) for more details.
 
 ---
 

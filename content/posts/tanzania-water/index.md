@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Securing clean water for Helani Village, Tanzania"
-date: 2022-10-15T00:00:00+00:00
+date: 2022-11-04T00:00:00+00:00
 caption: "The Tanzania savannah at sunset"
 ---
 
@@ -19,11 +19,11 @@ Before the well was installed, women would collect water from riverbeds and pond
 
 ![Children playfully inspect taps on the new well](c.jpg)
 
-You can contribute to clean water projects by selecting Waterfall as one of your charities on Little Giving.
+You can contribute to clean water projects by selecting Waterfall as one of the charities you give to daily on Little Giving.
 
 Waterfall is a charity based in Leicester ([1140634](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5016027)), that works in Tanzania. They dig and maintain boreholes, water pumps and build facilities for sanitation. They also distribute food and sponsor a number of locally run schools. They can be contacted at [info@waterfallcharity.org](mailto:info@waterfallcharity.org).
 
-Little Giving is a free service that helps you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users. See our [FAQs](https://www.littlegiving.org/support) for more information about how we work.
+Little Giving is a free service that helps you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users. See our [FAQs](https://www.littlegiving.org/support) for more details.
 
 ---
 
