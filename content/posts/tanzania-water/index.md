@@ -17,7 +17,7 @@ Before the well was installed, women would collect water from river beds and pon
 
 ![Women gather to collect clean water from the new well](b.jpg)
 
-![Childen examine the new water taps](c.jpg)
+![Children examine the new water taps](c.jpg)
 
 You can contribute to clean water projects by selecting Waterfall as one of your charities on Little Giving.
 
