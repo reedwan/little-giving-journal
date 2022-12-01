@@ -7,11 +7,11 @@ caption: "A woman sweeps the historic Kherur Mosque in West Bengal, India"
 
 Charity Fatimah have set up a network for distributing a daily subsistence of vegetables in poor areas of West Bengal, to facilitate daily sadaqah on behalf of donors.
 
-The trust run by Moulana Usman Adam from Forest Gate, distributes vegetables across 60 villages in eight districts in West Bengal (Baduria, Matia, Basirhat, Swarupnagar, Deganga, Hasnabad, Hingalganj, and Gaighata). A network of local maktabs (elementary schools for learning to read the Quran) sort the vegetables and help facilitate door-to-door distribution.
+The trust based in Forest Gate, London, distributes vegetables across 60 villages in eight districts in West Bengal (Baduria, Matia, Basirhat, Swarupnagar, Deganga, Hasnabad, Hingalganj and Gaighata). A network of local maktabs (elementary schools for learning to read the Quran) sort the vegetables and help facilitate door-to-door distribution.
 
 Many of the villagers subsist on less than 25p a day and live in makeshift wood and straw huts. Currently 550 families receive vegetables every day. About 20% of that is through donations from Little Giving users.
 
-![Vegetables being sorted for distribution at a maktab](a.jpg)
+![Vegetables being sorted at a maktab for distribution](a.jpg)
 
 ![Volunteers carry sorted bags of vegetables for distribution](c.jpg)
 
