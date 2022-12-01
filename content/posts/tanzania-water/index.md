@@ -2,7 +2,7 @@
 draft: false
 title: "Securing clean water for Helani Village, Tanzania"
 date: 2022-11-04T00:00:00+00:00
-caption: "The Tanzania savannah at sunset"
+caption: "A tribesman walks across the Tanzanian savannah at sunset"
 ---
 
 Waterfall have drilled a borehole and installed a pump and filter system to supply Helani Village in Tanzania with clean water, on behalf of Little Giving users.
@@ -15,9 +15,9 @@ Before the well was installed, women would collect water from riverbeds and pond
 
 ![Women would fill these buckets with murky water from rivers and ponds and carry them to the village](a.jpg)
 
-![Women gather to collect clean water from the new well](b.jpg)
+![Women gather to collect clean water from the new installation](b.jpg)
 
-![Children playfully inspect the new well](c.jpg)
+![Children playfully inspect the new installation](c.jpg)
 
 You can contribute to clean water projects by selecting Waterfall as one of the charities you give to daily on Little Giving.
 

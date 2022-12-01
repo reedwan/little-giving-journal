@@ -2,7 +2,7 @@
 draft: false
 title: "A daily bread scheme for widows in Kabul, Afghanistan"
 date: 2022-10-07T00:00:00+00:00
-caption: "The Blue Mosque in Mazar-e-Sharif, Afghanistan"
+caption: "A girl walks across the Blue Mosque in Mazar-e-Sharif, Afghanistan"
 ---
 
 Over the last few months Mothers of Afghanistan have been facilitating daily bread distribution in Kabul, on behalf of Little Giving users. 
