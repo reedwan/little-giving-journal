@@ -11,7 +11,7 @@ The trust run by Moulana Usman Adam from Forest Gate, distributes vegetables acr
 
 Many of the villagers subsist on less than 25p a day and live in makeshift wood and straw huts. Currently 550 families receive vegetables every day. About 20% of that is through donations from Little Giving users.
 
-![A volunteer gives a bag of vegetables to an old man resting in his hut](a.jpg)
+![Vegetables being sorted for distribution at a maktab](a.jpg)
 
 ![Volunteers carry sorted bags of vegetables for distribution](c.jpg)
 
