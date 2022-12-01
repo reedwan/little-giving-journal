@@ -15,9 +15,11 @@ Many of the villagers subsist on less than 25p a day and live in makeshift wood 
 
 ![Volunteers carry sorted bags of vegetables for distribution](c.jpg)
 
-![A volunteer gives a bag of vegetables to an old man resting in his hut](b.jpg)
+![Volunteers drop bags of vegetables at makeshift homes](b.jpg)
 
-Charity Fatimah also work in rural areas of Rajasthan, Bihar and Assam, distributing cooked food (including aqiqah), clothes, blankets (during the winter) and tarpaulin (during the rainy season). You can contribute to their daily vegetable project by selecting Charity Fatimah as one of the charities you give to on Little Giving.
+You can contribute to this project by selecting Charity Fatimah as one of the charities you give to daily on Little Giving.
+
+Charity Fatimah also work in rural areas of Rajasthan, Bihar and Assam, distributing cooked food (including aqiqah), clothes, blankets (during the winter) and tarpaulin (during the rainy season). They can be contacted at 07939 029769.
 
 Little Giving is a free service that helps you give a few pence in sadaqah every day. We hand-pick causes that we would donate to ourselves and then work with those charities to facilitate small daily donations from our users. See our [FAQs](https://www.littlegiving.org/support) for more details.
 
