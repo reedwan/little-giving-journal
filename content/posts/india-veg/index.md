@@ -9,13 +9,13 @@ Charity Fatimah have set up a network for distributing a daily subsistence of ve
 
 The trust based in Forest Gate (London) distributes vegetables across 60 villages in eight districts of West Bengal. A network of local maktabs (elementary schools for learning to read the Quran) sort the vegetables and help facilitate distribution to recipient homes.
 
-Many villagers, in the areas where the trust works, subsist on less than 25p a day and live in makeshift huts made of wood and plastic sheeting. 
+Many villagers, in the areas where the trust works, live below the poverty line (25p a day) and stay in makeshift huts made of wood and plastic sheeting. 
 
 Currently 550 families receive vegetables every day. About 20% of that is through donations from Little Giving users.
 
 ![Vegetables being sorted at a maktab for distribution](a.jpg)
 
-![Volunteers carry sorted bags of vegetables for distribution](c.jpg)
+![Maqtab students carry sorted bags of vegetables for distribution](c.jpg)
 
 ![Volunteers leave bags of vegetables at the entrance of homes](b.jpg)
 
