@@ -15,7 +15,7 @@ Currently 550 families receive vegetables every day. About 20% of that is throug
 
 ![Vegetables being sorted at a maktab for distribution](a.jpg)
 
-![Maqtab students carry sorted bags of vegetables for distribution](c.jpg)
+![Students carry sorted bags of vegetables for distribution](c.jpg)
 
 ![Volunteers leave bags of vegetables at the entrance of homes](b.jpg)
 
