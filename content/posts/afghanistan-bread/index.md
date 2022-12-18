@@ -17,7 +17,7 @@ In Kabul, Mothers of Afghanistan have set up a bread voucher scheme for poor fam
 
 ![Vouchers are signed by the bakery](c.jpg)
 
-![Bread is also sometimes distributed on the streets of Kabul](d.jpg)
+![Bread is also occasionally distributed on the streets of Kabul](d.jpg)
 
 You can contribute to this project by selecting Mothers of Afghanistan as one of the charities you give to daily on Little Giving.
 
