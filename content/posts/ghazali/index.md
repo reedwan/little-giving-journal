@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Imam Ghazali on the virtues of sadaqah"
+title: "Imam Ghazali on the excellence of sadaqah"
 date: 2023-01-06T00:00:00+00:00
 caption: "A spread from a 9th century (Hijri) manuscript of Ihya Ulum al-Din"
 ---
 
-**Among the hadith [on the virtues of sadaqah, are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
+**Among the hadith [on the excellence of sadaqah, are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
 
 And he (sallallahu alayhi wa-sallam) said, "Beware of the fire, if only [by giving] half a date [in charity] and if you lack even that, then by a kind word." (Bukhari)
 
@@ -19,7 +19,7 @@ And also, "[On the day of judgment] each person will stand in the shade of his c
 
 And also, "Charity closes seventy gates of evil." (Tabarani)
 
-And again, "Charity is a mystery that extinguishes the wrath of Allah." (Tabarani)
+And again, "Charity in secret extinguishes the wrath of Allah." (Tabarani)
 
 And also, "The one who gives from his wealth does not have a reward more excellent than the one who accepts [it] out of need." (Tabarani) It may be that what is meant here is someone who accepts charity in order to stave off his needs and so better devote himself to his religion. In that case, he would be equal to the one who gives charity for the sake of his religion. 
 
@@ -37,7 +37,7 @@ And Isa (alayhis salaam) said, "If someone turns a beggar away from his house wi
 
 There were two tasks our Messenger (sallallahu alayhi wa-sallam) would not entrust to another: He would get his own water for ablution at night and cover it, and he would give charity to the poor with his own hand. (Ibn Majah)
 
-And he (sallallahu alayhi wa-sallam) said, "The needy person is not the one you respond to with a date or two or a morsel of food or two. The needy person is the one who is too shy to beg. Read, if you will, [the words of Allah], They do not ask people persistently [or at all] [2:273]." (Bukhari, Muslim)
+And he (sallallahu alayhi wa-sallam) said, "The needy person is not the one you respond to with a date or two or a morsel of food or two. The needy person is the one who is too shy to beg. Read, if you will, [the words of Allah], 'They do not ask people persistently [or at all] [2:273].'" (Bukhari, Muslim)
 
 And he (sallallahu alayhi wa-sallam) also said, "There is no Muslim who clothes a fellow Muslim except that he will stay in Allahs protection as long as a shred of that garment remains." (Tirmidhi)
 
