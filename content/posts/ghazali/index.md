@@ -5,13 +5,13 @@ date: 2023-01-06T00:00:00+00:00
 caption: "A 4th century (Hijri) panel from Nishapur, with the inscription, \"In the name of Allah, the Merciful, the Compassionate\""
 ---
 
-**Among the hadith [are the following]:** The Messenger (sallallahu alayhi wa sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
+**Among the hadith [are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
 
-And he (sallallahu alayhi wa sallam) said, "Beware of the fire, if only [by giving] half a date [in charity] and if you lack even that, then by a kind word." (Bukhari)
+And he (sallallahu alayhi wa-sallam) said, "Beware of the fire, if only [by giving] half a date [in charity] and if you lack even that, then by a kind word." (Bukhari)
 
 And also, "There is no Muslim servant of Allah who gives in charity [even] a date that he has earned in a pure and lawful way -- for Allah accepts only what is pure -- except that Allah will take it in His right hand and raise it up as one of you would lift up a baby camel or a colt, until it becomes as great as Mount Uhud [in recompense]." (Muslim)
 
-And he (sallallahu alayhi wa sallam) said to Abu Darda (radiallahu anhu), "If you prepare a stew, add plenty of water, then see those whose homes neighbor yours and invite them to share it." (Muslim)
+And he (sallallahu alayhi wa-sallam) said to Abu Darda (radiallahu anhu), "If you prepare a stew, add plenty of water, then see those whose homes neighbor yours and invite them to share it." (Muslim)
 
 And also, "There is no servant of Allah who is generous in giving charity except that Allah will be generous to his heirs in what he leaves them." (Ibn Mubarak)
 
@@ -23,23 +23,23 @@ And again, "Charity is a mystery that extinguishes the wrath of Allah." (Tabaran
 
 And also, "The one who gives from his wealth does not have a reward more excellent than the one who accepts [it] out of need." (Tabarani) It may be that what is meant here is someone who accepts charity in order to stave off his needs and so better devote himself to his religion. In that case, he would be equal to the one who gives charity for the sake of his religion. 
 
-And the Messenger of Allah (sallallahu alayhi wa sallam)was once asked, "Which charity is best?" to which he replied, "It is what you give while you are still in good health, avid for what you have, and fearing want -- not what you ignore until the moment your soul has reached your throat [on your deathbed] and then say, 'To this person, give this, and to that one, give that and it was already theirs.'" (Bukhari)
+And the Messenger of Allah (sallallahu alayhi wa-sallam)was once asked, "Which charity is best?" to which he replied, "It is what you give while you are still in good health, avid for what you have, and fearing want -- not what you ignore until the moment your soul has reached your throat [on your deathbed] and then say, 'To this person, give this, and to that one, give that and it was already theirs.'" (Bukhari)
 
-And the Messenger (sallallahu alayhi wa sallam) also said to his Companions, "Give in charity!" A man among them said, "I have one dinar," and the Messenger (sallallahu alayhi wa sallam) said, "Spend it on yourself" Then he said, I have another," and the Messenger (sallallahu alayhi wa sallam) said, "Spend it on your wife." The man said, "I have another," and the Messenger (sallallahu alayhi wa sallam) said, "Spend it on your child." Again, the man said, "I have another," and the Messenger (sallallahu alayhi wa sallam) said, "Spend it on your servant." Finally, when the man said, "I have yet another," the Messenger (sallallahu alayhi wa sallam) said, "You can see best what to do with it!" (Abu Dawud, Nasai, Ibn Hibban, Hakim)
+And the Messenger (sallallahu alayhi wa-sallam) also said to his Companions, "Give in charity!" A man among them said, "I have one dinar," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on yourself" Then he said, I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your wife." The man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your child." Again, the man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your servant." Finally, when the man said, "I have yet another," the Messenger (sallallahu alayhi wa-sallam) said, "You can see best what to do with it!" (Abu Dawud, Nasai, Ibn Hibban, Hakim)
 
-And he (sallallahu alayhi wa sallam) said, "[Receiving] charity is not lawful for the family of Muhammad, for it is the impurities of human beings." (Muslim)
+And he (sallallahu alayhi wa-sallam) said, "[Receiving] charity is not lawful for the family of Muhammad, for it is the impurities of human beings." (Muslim)
 
-And he (sallallahu alayhi wa sallam) said, "Respond to a beggars disgrace if only by a morsel of food no bigger than a birds head." (Uqayli)
+And he (sallallahu alayhi wa-sallam) said, "Respond to a beggars disgrace if only by a morsel of food no bigger than a birds head." (Uqayli)
 
 And also, "If a beggar is honest [about his need], no one who turns him away will prosper." (Tabarani)
 
 And Isa (alayhis salaam) said, "If someone turns a beggar away from his house with nothing, the angels will not enter that house for seven days."
 
-There were two tasks our Messenger (sallallahu alayhi wa sallam) would not entrust to another: He would get his own water for ablution at night and cover it, and he would give charity to the poor with his own hand. (Ibn Majah)
+There were two tasks our Messenger (sallallahu alayhi wa-sallam) would not entrust to another: He would get his own water for ablution at night and cover it, and he would give charity to the poor with his own hand. (Ibn Majah)
 
-And he (sallallahu alayhi wa sallam) said, "The needy person is not the one you respond to with a date or two or a morsel of food or two. The needy person is the one who is too shy to beg. Read, if you will, [the words of Allah], They do not ask people persistently [or at all] [2:273]." (Bukhari, Muslim)
+And he (sallallahu alayhi wa-sallam) said, "The needy person is not the one you respond to with a date or two or a morsel of food or two. The needy person is the one who is too shy to beg. Read, if you will, [the words of Allah], They do not ask people persistently [or at all] [2:273]." (Bukhari, Muslim)
 
-And he (sallallahu alayhi wa sallam) also said, "There is no Muslim who clothes a fellow Muslim except that he will stay in Allahs protection as long as a shred of that garment remains." (Tirmidhi)
+And he (sallallahu alayhi wa-sallam) also said, "There is no Muslim who clothes a fellow Muslim except that he will stay in Allahs protection as long as a shred of that garment remains." (Tirmidhi)
 
 **And from the sayings [of the saintly]:** Urwah bin Zubayr (radiallahu anhu) said, "Aisha (radiallahu anha) gave fifty-thousand dirhams in charity and yet she wore a patched headscarf." (Ibn Mubarak)
 
