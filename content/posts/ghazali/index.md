@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Imam Ghazali on the Virtues of Sadaqah"
+title: "Imam Ghazali on the virtues of sadaqah"
 date: 2023-01-06T00:00:00+00:00
 caption: "A 4th century (Hijri) panel from Nishapur, with the inscription, \"In the name of Allah, the Merciful, the Compassionate\""
 ---
