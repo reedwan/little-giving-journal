@@ -2,7 +2,7 @@
 draft: false
 title: "Imam Ghazali on the virtues of sadaqah"
 date: 2023-01-06T00:00:00+00:00
-caption: "A 4th century (Hijri) panel from Nishapur, with the inscription, \"In the name of Allah, the Merciful, the Compassionate\""
+caption: "A spread from a 9th century (Hijri) manuscript of Ihya Ulum al-Din"
 ---
 
 **Among the hadith [on the virtues of sadaqah, are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
@@ -77,4 +77,4 @@ And it is said that a slave trader once passed by Hasan [Basri] (rahimahullah) w
 
 ---
 
-Kitab Asrar al‑Zakāt wa-Muhimatiha, Imam Ghazali (rahimahullah)
+Kitab Asrar al‑Zakat wa-Muhimatiha, Ihya Ulum al-Din, Imam Ghazali (rahimahullah)
