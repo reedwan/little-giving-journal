@@ -5,7 +5,7 @@ date: 2023-01-06T00:00:00+00:00
 caption: "A 4th century (Hijri) panel from Nishapur, with the inscription, \"In the name of Allah, the Merciful, the Compassionate\""
 ---
 
-**Among the hadith [are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
+**Among the hadith [on the virtues of sadaqah, are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
 
 And he (sallallahu alayhi wa-sallam) said, "Beware of the fire, if only [by giving] half a date [in charity] and if you lack even that, then by a kind word." (Bukhari)
 
