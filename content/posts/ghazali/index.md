@@ -15,9 +15,9 @@ And he (sallallahu alayhi wa-sallam) said to Abu Darda (radiallahu anhu), "If yo
 
 And also, "There is no servant of Allah who is generous in giving charity except that Allah will be generous to his heirs in what he leaves them." (Ibn Mubarak)
 
-And also, "[On the day of judgment] each person will stand in the shade of his charity until Allah completes the reckoning for all" (Ibn Hibban, Abu Nuaym)
+And also, "[On the day of judgment] each person will stand in the shade of his charity until Allah completes the reckoning for all." (Ibn Hibban, Abu Nuaym)
 
-And also, "Charity closes seventy gates of evil" (Tabarani)
+And also, "Charity closes seventy gates of evil." (Tabarani)
 
 And again, "Charity is a mystery that extinguishes the wrath of Allah." (Tabarani)
 
@@ -29,7 +29,7 @@ And the Messenger (sallallahu alayhi wa-sallam) also said to his Companions, "Gi
 
 And he (sallallahu alayhi wa-sallam) said, "[Receiving] charity is not lawful for the family of Muhammad, for it is the impurities of human beings." (Muslim)
 
-And he (sallallahu alayhi wa-sallam) said, "Respond to a beggars disgrace if only by a morsel of food no bigger than a birds head." (Uqayli)
+And he (sallallahu alayhi wa-sallam) said, "Respond to a beggars disgrace if only by a morsel of food no bigger than a bird's head." (Uqayli)
 
 And also, "If a beggar is honest [about his need], no one who turns him away will prosper." (Tabarani)
 
@@ -57,11 +57,11 @@ And Luqman (alayhis salaam) said to his son, "When you commit a transgression, g
 
 Yahya bin Muadh (rahimahullah) said, "I know of no seed that weighs as much as all the mountains of this world except the seed of charity." (Thalabi)
 
-Abdul Aziz bin Abi Rawwad (rahimahullah) said, "It used to be said that there were three things among the treasures of heaven: Being silent about ones illness, [being] silent about ones charity, and [being] silent about hardships." This is also related as a hadith. (Abu Nuaym)
+Abdul Aziz bin Abi Rawwad (rahimahullah) said, "It used to be said that there were three things among the treasures of heaven: Being silent about ones illness, [being] silent about ones charity, and [being] silent about hardships." (Abu Nuaym) This is also related as a hadith.
 
-Umar bin Khattab (radiallahu anhu) said, "A persons good works vie with one another, and charity says, 'I am the best of you!'"
+Umar bin Khattab (radiallahu anhu) said, "A person's good works vie with one another, and charity says, 'I am the best of you!'"
 
-Abdallah bin Umar (radiallahu anhu) was wont to give a very sweet variety of fresh date in charity and said, "I heard Allah's words, 'Never will you attain the good [reward] until you spend [in the way of Allah] from that which you live [3:92]', and Allah knows that I really love this kind of date!" (Suyuti)
+Abdallah bin Umar (radiallahu anhu) was wont to give a very sweet variety of fresh date in charity and said, "I heard Allah's words, 'Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love [3:92]', and Allah knows that I really love this kind of date!" (Suyuti)
 
 Nakhai (rahimahullah) said, "If something is for Allah it displeases me that it should have any flaws" 
 
