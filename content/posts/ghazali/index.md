@@ -9,7 +9,7 @@ caption: "A 4th century (Hijri) panel from Nishapur, with the inscription, \"In 
 
 And he (sallallahu alayhi wa-sallam) said, "Beware of the fire, if only [by giving] half a date [in charity] and if you lack even that, then by a kind word." (Bukhari)
 
-And also, "There is no Muslim servant of Allah who gives in charity [even] a date that he has earned in a pure and lawful way -- for Allah accepts only what is pure -- except that Allah will take it in His right hand and raise it up as one of you would lift up a baby camel or a colt, until it becomes as great as Mount Uhud [in recompense]." (Muslim)
+And also, "There is no Muslim servant of Allah who gives in charity [even] a date that he has earned in a pure and lawful way -- for Allah accepts only what is pure -- except that Allah will take it in His right hand and raise it up as one of you would raise a baby camel or a colt, until it becomes as great as Mount Uhud [in recompense]." (Muslim)
 
 And he (sallallahu alayhi wa-sallam) said to Abu Darda (radiallahu anhu), "If you prepare a stew, add plenty of water, then see those whose homes neighbor yours and invite them to share it." (Muslim)
 
