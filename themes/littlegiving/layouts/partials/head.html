@@ -14,7 +14,7 @@
 		<meta name="description" content="Little Giving">
 		<meta property="og:description" content="Little Giving">
 		{{ with .Resources.GetMatch "header.jpg" }}
-		{{ $image := .Fill "800x800" }}
+		{{ $image := .Fill "1600x800" }}
 		<meta property="og:image" content="{{ $image.RelPermalink }}">
 		{{ end }}
 	{{ end }}
