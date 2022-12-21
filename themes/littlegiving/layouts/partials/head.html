@@ -13,8 +13,10 @@
 		<meta property="og:title" content="{{ .Page.Title }}" />
 		<meta name="description" content="Little Giving">
 		<meta property="og:description" content="Little Giving">
-		{{ $image := .Page.Resources.GetMatch "header.jpg" }}
+		{{ with .Resources.GetMatch "header.jpg" }}
+		{{ $image := .Fill "1600x800" }}
 		<meta property="og:image" content="{{ $image.RelPermalink }}">
+		{{ end }}
 	{{ end }}
 	<link rel="shortcut icon" href="https://www.littlegiving.org/static/favicon.ico">
 	<link rel="stylesheet" href="https://www.littlegiving.org/static/bulma.css">
