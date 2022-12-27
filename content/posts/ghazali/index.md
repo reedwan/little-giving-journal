@@ -23,9 +23,9 @@ And again, "Charity in secret extinguishes the wrath of Allah." (Tabarani)
 
 And also, "The one who gives from his wealth does not have a reward more excellent than the one who accepts [it] out of need." (Tabarani) It may be that what is meant here is someone who accepts charity in order to stave off his needs and so better devote himself to his religion. In that case, he would be equal to the one who gives charity for the sake of his religion. 
 
-And the Messenger of Allah (sallallahu alayhi wa-sallam)was once asked, "Which charity is best?" to which he replied, "It is what you give while you are still in good health, avid for what you have, and fearing want -- not what you ignore until the moment your soul has reached your throat [on your deathbed] and then say, 'To this person, give this, and to that one, give that and it was already theirs.'" (Bukhari)
+And the Messenger of Allah (sallallahu alayhi wa-sallam) was once asked, "Which charity is best?" to which he replied, "It is what you give while you are still in good health, avid for what you have, and fearing want -- not what you ignore until the moment your soul has reached your throat [on your deathbed] and then say, 'To this person, give this, and to that one, give that and it was already theirs.'" (Bukhari)
 
-And the Messenger (sallallahu alayhi wa-sallam) also said to his Companions, "Give in charity!" A man among them said, "I have one dinar," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on yourself" Then he said, I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your wife." The man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your child." Again, the man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your servant." Finally, when the man said, "I have yet another," the Messenger (sallallahu alayhi wa-sallam) said, "You can see best what to do with it!" (Abu Dawud, Nasai, Ibn Hibban, Hakim)
+And the Messenger (sallallahu alayhi wa-sallam) also said to his Companions, "Give in charity!" A man among them said, "I have one dinar," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on yourself." Then he said, I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your wife." The man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your child." Again, the man said, "I have another," and the Messenger (sallallahu alayhi wa-sallam) said, "Spend it on your servant." Finally, when the man said, "I have yet another," the Messenger (sallallahu alayhi wa-sallam) said, "You can see best what to do with it!" (Abu Dawud, Nasai, Ibn Hibban, Hakim)
 
 And he (sallallahu alayhi wa-sallam) said, "[Receiving] charity is not lawful for the family of Muhammad, for it is the impurities of human beings." (Muslim)
 
@@ -39,7 +39,7 @@ There were two tasks our Messenger (sallallahu alayhi wa-sallam) would not entru
 
 And he (sallallahu alayhi wa-sallam) said, "The needy person is not the one you respond to with a date or two or a morsel of food or two. The needy person is the one who is too shy to beg. Read, if you will, [the words of Allah], 'They do not ask people persistently [or at all] [2:273].'" (Bukhari, Muslim)
 
-And he (sallallahu alayhi wa-sallam) also said, "There is no Muslim who clothes a fellow Muslim except that he will stay in Allahs protection as long as a shred of that garment remains." (Tirmidhi)
+And he (sallallahu alayhi wa-sallam) also said, "There is no Muslim who clothes a fellow Muslim except that he will stay in Allah's protection as long as a shred of that garment remains." (Tirmidhi)
 
 **And from the sayings [of the saintly]:** Urwah bin Zubayr (radiallahu anhu) said, "Aisha (radiallahu anha) gave fifty-thousand dirhams in charity and yet she wore a patched headscarf." (Ibn Mubarak)
 
